@@ -1,0 +1,49 @@
+.container{
+    padding: 5% 0% ;
+    max-width: 60%;
+    margin:auto ;
+  }
+  .titlecontent{
+    font-family: jetbrains;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 3%;
+  }
+  .titlecontent h1{
+    font-size: 48px;
+  }
+  .titletags{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 10px;
+    font-family: jetbrains;
+    font-size: 12px;
+    max-width: 100%;
+    margin-top: 6%;
+  }
+  .titlewords{
+    max-width: 100%;
+  }
+  .titleimages{
+    max-width: 100%;
+  }
+  .titleimages img{
+    max-width: 100%;
+  }
+  .section{
+    padding: 10% 0% 0%;
+  }
+  .sectiontitle{
+    padding:2% 0%;
+    font-family: jetbrains;
+    font-size: 32px;
+  }
+  .sectioncontent{
+    display: flex;
+    flex-direction: row;
+
+  }
+

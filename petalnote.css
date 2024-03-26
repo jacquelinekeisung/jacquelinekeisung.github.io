@@ -1,0 +1,25 @@
+.petalwords{
+    max-width: 30%;
+    padding: 2% 0% 0% 4%;
+}
+.petalvid{
+    max-width: 70%;
+}
+.petalvid video{
+    max-width: 100%;
+}
+.flowervid{
+    max-width: 30%;
+}
+.flowervid video{
+    max-width: 100%;
+}
+.sectioncontent{
+    justify-content: space-between;
+}
+.bloom{
+    padding-top: 4%;
+    text-align: right;
+    font-family: jetbrains;
+    font-size: 32px;
+}

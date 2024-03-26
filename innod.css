@@ -1,0 +1,67 @@
+.innodpfp{
+    max-width: 30%;
+}
+img{
+    max-width: 100%;
+}
+.innodpfpwords{
+    max-width: 70%;
+    padding: 3% 0% 0% 4%;
+}
+.moodboards{
+    max-width: 50%;
+}
+.moodboardwords{
+    max-width: 50%;
+    padding: 3% 0% 0% 4%;
+}
+.caption{
+    padding: 4% 0%;
+}
+@font-face {
+    font-family: goldman;
+    src: url(fonts/Goldman/Goldman-Regular.ttf);
+  }
+  @font-face {
+    font-family: pressstart;
+    src: url(fonts/Press_Start_2P/PressStart2P-Regular.ttf);
+  }
+
+  .press{
+    padding: 2% 0%;
+    font-family: pressstart;
+    font-size: larger;
+  }
+  .goldman{
+    padding: 2% 0%;
+    font-family: goldman;
+  }
+  .timeline{
+    max-width: 100%;
+  }
+  .posts{
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .posts img{
+    max-width: 33%;
+  }
+  .column{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .statspic{
+    max-width: 30%;
+}
+.takeaways{
+    max-width: 70%;
+    padding: 4% 4% 0% 0%;
+}
+.here{
+
+        padding-top: 10%;
+        text-align: right;
+
+}

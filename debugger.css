@@ -1,0 +1,69 @@
+
+  .ideationpic{
+    max-width: 80%;
+  }
+  .ideationpic1{
+    max-width: 100%;
+  }
+  .ideationpic1 img{
+    max-width: 100%;
+  }
+  .ideationcontent{
+    display: flex;
+    flex-direction: column;
+    padding: 2% 0% 0%;
+    gap: 20px;
+    
+  }
+  #ideationwords{
+    padding: 0% 4%;
+  }
+  .ideationpic img{
+    max-width: 100%;
+  }
+  .inspopic{
+    max-width: 80%;
+  }
+  .inspopic img{
+    max-width: 100%;
+  }
+  .inspowords{
+    max-width: 30%;
+    padding: 2% 0% 0% 2%;
+  }
+  .discordwords{
+    max-width: 30%;
+  }
+  .discordpic{
+    max-width: 80%;
+  }
+  .discordpic img{
+    max-width: 100%;
+  }
+  .creditpic{
+    max-width: 70%;
+  }
+  .creditpic img{
+    max-width: 100%;
+  }
+  .creditwords{
+    padding: 2% 0% 0% 2%;
+  }
+  .takeawaypics{
+    max-width: 50%;
+    
+  }
+  .takeawaypics img{
+    max-width: 100%;
+  }
+  .takeawaywords{
+    padding: 2% 0% 0% ;
+    max-width: 50%;
+  }
+  #center{
+    text-align: center;
+  }
+  #lovely{
+    padding-top: 10%;
+    text-align: right;
+  }

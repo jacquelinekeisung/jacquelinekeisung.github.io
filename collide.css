@@ -1,0 +1,74 @@
+.userflow{
+    max-width: 100%;
+  }
+  img{
+    max-width: 100%;
+  }
+  .sketch{
+    max-width: 30%;
+  }
+  .lo{
+    max-width: 65%;
+  }
+  .lofi{
+    padding-top: 4%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .feedbackwords {
+    display: flex;
+    flex-direction: column;
+  }
+  .feedbackimg{
+    padding: 2%;
+  }
+  .brandingwords{
+    padding: 2% 0% 0% 2% ;
+  }
+  .stepvid{
+    max-width: 30%;
+}
+.stepvid video{
+    max-width: 100%;
+}
+.step{
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    padding: 10% 5%;
+    gap: 5%;
+}
+.stepwords{
+    max-width: 44%;
+    padding: 2%;
+    gap: 10%;
+}
+.solution{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5%;
+}
+.solutionwords{
+    padding: 5%10%;
+    font-size: larger;
+}
+.takevid{
+  max-width: 40%;
+}
+.takevid video{
+  max-width: 100%;
+}
+.takeawaywords{
+  max-width: 60%;
+  padding: 2%;
+  gap: 10%;
+}
+.feedback{
+  display: flex;
+  flex-direction: row;
+}
+.feedbackcontent{
+  padding: 5%;
+}
